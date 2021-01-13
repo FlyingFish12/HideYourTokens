@@ -1,0 +1,3 @@
+// Stop exposing your tokens in the whole internet ffs. Putting tokens here will make them automatically reset, you're welcome.
+
+Nzc5OTM3NTczMDUzMTM2OTU3.X7nzdw.BwXQYNtawzYASRi1Ye8RhXmwfhg
